@@ -1,27 +1,52 @@
-# Hi, I'm Curro Casas 👋
+Hi, I'm Curro Casas 👋
+I'm a Product & Technology Leader with 12+ years building AI platforms, developer ecosystems, and growth infrastructure at scale. Previously led AI platform strategy for 600M+ Alexa-enabled devices at Amazon; before that, global data platform expansion at ADP serving 80%+ of the Fortune 500.
 
-I am an **AI Product Executive & Technical Builder** with over 13 years of experience architecting and scaling global platforms (ex-Amazon Alexa+, ADP) and e-commerce ecosystems. I specialize in bridging the gap between high-level product strategy and deep technical architecture—moving seamlessly from executive roadmaps to production-ready code.
+Currently in a deliberate build period — architecting AI-native applications, LLM orchestration frameworks, and e-commerce infrastructure while staying hands-on at the bleeding edge of the AI stack.
 
----
 
-### 🚀 Core Focus Areas
-- 🤖 **Autonomous Multi-Agent Systems:** Building structured LLM orchestration and validation frameworks using Model Context Protocol (MCP) standards.
-- 👁️ **AI-Native Consumer Apps:** Implementing computer vision models and multimodal user experiences for predictive personalization.
-- ⚡ **E-Commerce Infrastructure:** Re-engineering Shopify Liquid theme layers, mitigating technical debt, and optimizing Core Web Vitals for maximum conversion rate optimization (CRO).
+🚀 Currently Building
+StyleStack — AI-native wardrobe digitalization platform. Computer vision APIs + contextual styling recommendations. Turning the closet into structured, queryable data.
+ZeroGaps — LLM orchestration framework for technical domain research and customer problem validation. Structured pipelines that automate the founder's discovery workflow.
+E-Commerce AI Studio — Performance engineering, Liquid re-architecture, and AI-powered KPI automation for high-growth DTC brands (e.g., Arquia → tripled conversion rate, 80% of reporting automated).
 
----
 
-### 💻 Currently Building & Optimizing
-*   **StyleStack:** An AI-native wardrobe management and digitalization platform leveraging computer vision APIs and contextual styling recommendations.
-*   **ZeroGaps:** An analytical data framework designed to automate technical domain research, competitive analysis, and customer problem validation workflows.
-*   **Boutique E-Commerce Studio:** Performance engineering, liquid code refactoring, and headless architecture audits for high-growth independent brands (e.g., Arquia).
+🛠️ Stack
+Languages     Python · SQL · JavaScript · HTML5 · CSS3 · Shopify Liquid
 
----
+AI/ML         Anthropic Claude API · OpenAI API · LangChain · MCP · Agentic Orchestration
 
-### 🛠️ Technical Stack & Ecosystems
+Frameworks    FastAPI · D3.js · TailwindCSS
 
-```blocks
-[Languages]   Python, SQL, JavaScript, HTML5, CSS3, Shopify Liquid
-[Frameworks]   FastAPI, D3.js, TailwindCSS, Bootstrap
-[AI/ML]        OpenAI API, Anthropic Claude API, LangChain, Agentic Orchestration
-[Cloud/Ops]    AWS (Lambda, S3, EC2), Git/GitHub CI-CD, Docker, Shopify CLI
+Cloud/Ops     AWS (Lambda · S3 · EC2) · GitHub Actions · Docker · Shopify CLI
+
+
+📌 Selected Work
+Project
+What it is
+Stack
+pain-intelligence-platform
+Self-serve tool that delivers validated customer pain clusters for founders and PMs
+Python · LLM Orchestration
+medical-ai-ops
+AI automation validation framework for medical/dental practice operations
+Python · Agentic Workflows
+Job-Agent
+Autonomous job discovery and matching pipeline
+Python · Automation
+House-hunting
+Data pipeline for real estate discovery and scoring
+Python · Data
+Portfolio
+Personal portfolio site (currocasas.com)
+HTML · CSS · JS
+
+
+
+🔗 Find me
+Portfolio: currocasas.com
+LinkedIn: linkedin.com/in/currocasas
+
+
+
+12+ years in product and platform leadership. Technical enough to ship. Senior enough to own the roadmap.
+
