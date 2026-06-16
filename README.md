@@ -20,24 +20,7 @@ Currently in a deliberate build period — architecting AI-native applications, 
 
 📌 Selected Work
 
-Project
-What it is
-Stack
-pain-intelligence-platform
-Self-serve tool that delivers validated customer pain clusters for founders and PMs
-Python · LLM Orchestration
-medical-ai-ops
-AI automation validation framework for medical/dental practice operations
-Python · Agentic Workflows
-Job-Agent
-Autonomous job discovery and matching pipeline
-Python · Automation
-House-hunting
-Data pipeline for real estate discovery and scoring
-Python · Data
-Portfolio
-Personal portfolio site (currocasas.com)
-HTML · CSS · JS
+ProjectWhat it isStackpain-intelligence-platformSelf-serve tool that delivers validated customer pain clusters for founders and PMsPython · LLM Orchestrationmedical-ai-opsAI automation validation framework for medical/dental practice operationsPython · Agentic WorkflowsJob-AgentAutonomous job discovery and matching pipelinePython · AutomationHouse-huntingData pipeline for real estate discovery and scoringPython · DataPortfolioPersonal portfolio site (currocasas.com)HTML · CSS · JS
 
 
 
