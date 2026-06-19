@@ -8,7 +8,7 @@ Currently in a deliberate build period — architecting AI-native applications, 
 
 ### 🚀 Currently Building
 
-- **StyleStack**: AI-native wardrobe digitalization platform. Computer vision APIs + contextual styling recommendations. Turning the closet into structured, queryable data.
+- **Brummell**: AI-native wardrobe digitalization platform. Computer vision APIs + contextual styling recommendations. Turning the closet into structured, queryable data.
 - **ZeroGaps**: LLM orchestration framework for technical domain research and customer problem validation. Structured pipelines that automate the founder's discovery workflow.
 - **E-Commerce AI Studio**: Performance engineering, Liquid re-architecture, and AI-powered KPI automation for high-growth DTC brands (e.g., Arquia → tripled conversion rate, 80% of reporting automated).
 
@@ -22,18 +22,6 @@ AI/ML         Anthropic Claude API · OpenAI API · LangChain · MCP · Agentic 
 Frameworks    FastAPI · D3.js · TailwindCSS
 Cloud/Ops     AWS (Lambda · S3 · EC2) · GitHub Actions · Docker · Shopify CLI
 ```
-
----
-
-### 📌 Selected Work
-
-| Project | What it is | Stack |
-|---|---|---|
-| [pain-intelligence-platform](https://github.com/currocasas88/pain-intelligence-platform) | Self-serve tool that delivers validated customer pain clusters for founders and PMs | Python · LLM Orchestration |
-| [medical-ai-ops](https://github.com/currocasas88/medical-ai-ops) | AI automation validation framework for medical/dental practice operations | Python · Agentic Workflows |
-| [Job-Agent](https://github.com/currocasas88/Job-Agent) | Autonomous job discovery and matching pipeline | Python · Automation |
-| [House-hunting](https://github.com/currocasas88/House-hunting) | Data pipeline for real estate discovery and scoring | Python · Data |
-| [Portfolio](https://github.com/currocasas88/Portfolio) | Personal portfolio site (currocasas.com) | HTML · CSS · JS |
 
 ---
 
